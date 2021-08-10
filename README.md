@@ -1,6 +1,6 @@
 # Instagram Clone
 
-I made an application similar to Instagram with Android Studio Java. I used Firebase in this application.
+I made an application similar to Instagram with Android Studio. I used Firebase in this application.
 
 ## Screenshots
 
